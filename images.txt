@@ -4,3 +4,11 @@ guiyunweb/chmlfrp
 guiyunweb/chmlfrp:latest
 #支持指定架构
 --platform=linux/amd64 guiyunweb/chmlfrp
+whyour/qinglong
+--platform=linux/amd64 whyour/qinglong
+deluan/navidrome
+--platform=linux/amd64 deluan/navidrome
+vaultwarden/server
+--platform=linux/amd64 vaultwarden/server
+guovern/tv-requests
+--platform=linux/amd64 guovern/tv-requests
